@@ -53,7 +53,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-# ⏰ Mis Actividades Recientes:
+# ⏰ My Recent Activities:
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [ivansalas2064/ivansalas2064](https://github.com/ivansalas2064/ivansalas2064)<br>
